@@ -1,1 +1,1 @@
-# Automatic testing of the website
+# Automatic testing of the website.
